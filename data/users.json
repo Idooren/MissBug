@@ -1,0 +1,15 @@
+[
+  {
+    "username": "idol",
+    "password": "123123",
+    "_id": "5yssXN",
+    "createdAt": 1599043761840
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "_id": "9PuqWw",
+    "createdAt": 1588699277094,
+    "isAdmin": true
+  }
+]
